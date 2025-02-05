@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Isaac Salomón Rendón 
+4AVP
